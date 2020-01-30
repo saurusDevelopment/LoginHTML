@@ -6,7 +6,7 @@
   flex-flow: column;
   justify-content: center;
   border-radius: 0px 12px 12px 0px;
-  color: #fff
+  color: #fff;
 }
 
 @media (max-width: 576px) {
@@ -24,6 +24,8 @@
 
 .signin .subtitle {
   font-size: 14px;
+  padding-right: 10%;
+  padding-left: 10%;
 }
 
 .signin .buttons {
